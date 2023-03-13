@@ -1,0 +1,57 @@
+header {
+    height: 70px;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+.links {
+    float: right;
+    padding-bottom: 20px;
+    
+}
+
+ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.welcome {
+    height: 350px;
+    padding-top: 100px;
+}
+
+.welcome p {
+    font-size: 20px;
+}
+
+.welcome button {
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.about {
+    
+    padding: 150px;
+
+}
+
+.about p {
+    font-size: 20px;
+}
+
+.service {
+    padding: 150px;
+    background-color: #f5f5f5;
+}
+
+.contact {
+    padding: 150px;
+}
+
+footer {
+    background-color: #212529;
+    padding: 50px;
+}
